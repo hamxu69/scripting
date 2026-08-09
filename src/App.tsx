@@ -1,7 +1,7 @@
 import './App.css'
 import AlertButton from "./AlertButton";
 function App() {
-  const name = 'Hamza'
+  const name = 'Hamz'
   const city = 'Lahore'
   return (<>
     <h1>I am {name}</h1>
